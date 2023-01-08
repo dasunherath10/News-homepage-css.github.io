@@ -1,0 +1,99 @@
+.p-body{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+/* ******* navbar ******* */
+
+.nav-link{
+    font-size: 1.1em;
+    font-weight: 500;
+    
+}
+
+.nav-item{
+    padding-right: 25px;
+    color: black;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+}
+
+#navbar-top{
+  
+    position: fixed-top;
+
+}
+
+/*first bar*/
+
+#first-bar{
+    padding-top: 40px;
+}
+
+
+#nftcard{
+    border-radius: 0%;
+    border-color: white;
+}
+
+.card-body{
+    background-color: white;
+}
+
+#embed-card1{
+    border-color: white;
+}
+
+#card1-title{
+    font-size:3em;
+    font-weight: 800;
+    line-height:50px;
+}
+
+#card1-button{
+    border-radius: 0px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+#card1-button:hover{
+    background-color: black;
+    color: white;
+}
+
+#coloumn1{
+    border-radius: 0%;
+    border-color: #00001A;
+    color: white;
+}
+
+#coloumn1-body{
+    background-color: #00001A;
+}
+
+.card1-top{
+    font-size: 2em;
+    color: rgb(171, 219, 74);
+    font-weight: 600;
+}
+#coloumn2-title{
+    font-weight: 600;
+    font-size: 1.3em;
+}
+#coloumn2-title:hover{
+    color: rgb(171, 219, 74);
+
+}
+
+
+/* 3RD ROW */
+
+#row3-card{
+    border-color: white;
+}
+
+#row30-text:hover{
+    color:red;
+}
